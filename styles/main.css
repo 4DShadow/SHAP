@@ -21,7 +21,7 @@ header {
   margin: 0 auto;
   padding: 10px;
   background-color: blue;
-  outline-style: dotted;
+  /* outline-style: dotted; */
 }
 
 /* FLEXBOX -------------------------------------*/ 
