@@ -43,7 +43,7 @@ header {
 }
 
 .main-pic {
- outline-style: dotted;
+ /* outline-style: dotted; */
  background-image: url(../images/keyflip.jpg);
  background-repeat: no-repeat;
  background-size: cover;
