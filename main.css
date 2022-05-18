@@ -157,7 +157,8 @@ footer {
   background-size: cover;
   background-repeat: no-repeat;
   /* height:fit-content */
-  
+  font-size: x-large;
+
 }
 
 @media only screen and (max-width:550px){
