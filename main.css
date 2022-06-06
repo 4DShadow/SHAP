@@ -146,14 +146,14 @@ main {
   /* height:fit-content */
 }
 footer {
-  background-color: #074f57;
+  background-color: white;
   grid-area: footer;
   border-radius: var(--main-radius);
   padding: var(--main-padding);
   padding-right: var(--main-padding);
   padding-bottom: 20rem;
   color: rgb(1, 9, 9);
-  background-image: url(images/window.jpg);
+  /* background-image: url(images/window.jpg); */
   background-size: cover;
   background-repeat: no-repeat;
   /* height:fit-content */
